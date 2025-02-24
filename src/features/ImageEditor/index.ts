@@ -1,3 +1,2 @@
-export { ColorPickerPanel } from "./ui/ColorPickerPanel.tsx";
-export { DrawingBoard } from "./ui/DrawingBoard.tsx";
-export * from "./types";
+export { ImageEditor } from './ui/ImageEditor.tsx';
+export * from './types';
